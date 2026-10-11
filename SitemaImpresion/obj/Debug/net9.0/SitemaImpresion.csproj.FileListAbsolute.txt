@@ -1,0 +1,14 @@
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\bin\Debug\net9.0\SitemaImpresion.exe
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\bin\Debug\net9.0\SitemaImpresion.deps.json
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\bin\Debug\net9.0\SitemaImpresion.runtimeconfig.json
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\bin\Debug\net9.0\SitemaImpresion.dll
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\bin\Debug\net9.0\SitemaImpresion.pdb
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\obj\Debug\net9.0\SitemaImpresion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\obj\Debug\net9.0\SitemaImpresion.AssemblyInfoInputs.cache
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\obj\Debug\net9.0\SitemaImpresion.AssemblyInfo.cs
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\obj\Debug\net9.0\SitemaImpresion.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\obj\Debug\net9.0\SitemaImpresion.dll
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\obj\Debug\net9.0\refint\SitemaImpresion.dll
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\obj\Debug\net9.0\SitemaImpresion.pdb
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\obj\Debug\net9.0\SitemaImpresion.genruntimeconfig.cache
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\SitemaImpresion\obj\Debug\net9.0\ref\SitemaImpresion.dll

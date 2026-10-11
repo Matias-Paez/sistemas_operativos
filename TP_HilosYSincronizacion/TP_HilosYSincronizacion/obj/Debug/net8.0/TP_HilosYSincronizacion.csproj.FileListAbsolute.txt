@@ -1,0 +1,14 @@
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\bin\Debug\net8.0\TP_HilosYSincronizacion.exe
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\bin\Debug\net8.0\TP_HilosYSincronizacion.deps.json
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\bin\Debug\net8.0\TP_HilosYSincronizacion.runtimeconfig.json
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\bin\Debug\net8.0\TP_HilosYSincronizacion.dll
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\bin\Debug\net8.0\TP_HilosYSincronizacion.pdb
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\obj\Debug\net8.0\TP_HilosYSincronizacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\obj\Debug\net8.0\TP_HilosYSincronizacion.AssemblyInfoInputs.cache
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\obj\Debug\net8.0\TP_HilosYSincronizacion.AssemblyInfo.cs
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\obj\Debug\net8.0\TP_HilosYSincronizacion.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\obj\Debug\net8.0\TP_HilosYSincronizacion.dll
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\obj\Debug\net8.0\refint\TP_HilosYSincronizacion.dll
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\obj\Debug\net8.0\TP_HilosYSincronizacion.pdb
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\obj\Debug\net8.0\TP_HilosYSincronizacion.genruntimeconfig.cache
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\TP_HilosYSincronizacion\TP_HilosYSincronizacion\obj\Debug\net8.0\ref\TP_HilosYSincronizacion.dll

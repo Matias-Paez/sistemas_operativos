@@ -1,0 +1,14 @@
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\obj\Debug\net8.0\ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\obj\Debug\net8.0\ejercicio03.AssemblyInfoInputs.cache
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\obj\Debug\net8.0\ejercicio03.AssemblyInfo.cs
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\obj\Debug\net8.0\ejercicio03.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\bin\Debug\net8.0\ejercicio03.exe
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\bin\Debug\net8.0\ejercicio03.deps.json
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\bin\Debug\net8.0\ejercicio03.runtimeconfig.json
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\bin\Debug\net8.0\ejercicio03.dll
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\bin\Debug\net8.0\ejercicio03.pdb
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\obj\Debug\net8.0\ejercicio03.dll
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\obj\Debug\net8.0\refint\ejercicio03.dll
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\obj\Debug\net8.0\ejercicio03.pdb
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\obj\Debug\net8.0\ejercicio03.genruntimeconfig.cache
+C:\Users\Matias\Desktop\CURSADO 2026\Sistemas Operativos\P_2026\TP04_Hilos\Codigo\ejercicio03\ejercicio03\obj\Debug\net8.0\ref\ejercicio03.dll
