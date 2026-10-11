@@ -10,7 +10,7 @@ Tener instalado el SDK de .NET compatible con el archivo `.csproj`.
    git clone URL_DEL_REPOSITORIO
    ```
 
-2. Entrar en la carpeta del proyecto:
+2. Entrar en la carpeta del proyecto que desea ejecutar (por ejemplo el de impresion):
 
    ```bash
    cd SistemaImpresion
